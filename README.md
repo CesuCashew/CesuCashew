@@ -12,6 +12,13 @@
 
 <br/>
 
+<div align="center">
+  
+  <!-- Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,5,6&height=150&section=header&text=CesuCashew&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  
+</div>
+
 ## 👨‍💻 About Me
 
 ```typescript
@@ -168,6 +175,12 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
 
 </div>
 
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=CesuCashew&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+</div>
 
 <div align="center">
   
