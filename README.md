@@ -161,7 +161,7 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesuCashew&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesuCashew&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   
   <!-- Most Used Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesuCashew&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
@@ -179,16 +179,6 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CesuCashew&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=CesuCashew&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies"/>
 
 </div>
 
