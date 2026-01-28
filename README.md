@@ -168,12 +168,6 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
 
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=CesuCashew&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-</div>
 
 <div align="center">
   
