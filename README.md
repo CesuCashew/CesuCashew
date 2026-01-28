@@ -1,12 +1,12 @@
 <div align="center">
   
   <!-- Animated Welcome GIF -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DF9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+Full+Stack+Developer;Specializing+in+AI+%26+Autonomous+Agents;Building+Intelligent+Systems+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DF9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+Full+Stack+Developer;Specializing+in+AI+%26+Autonomous+Agents;Building+Intelligent+Systems+🤖" alt="Typing SVG" />
   
   <br/>
   
   <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DF9FF,100:FF4FD8&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=header" width="100%"/>
 
 </div>
 
@@ -161,24 +161,24 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesuCashew&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=FF4FD8&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesuCashew&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesuCashew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=C9D1D9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesuCashew&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CesuCashew&theme=tokyonight&hide_border=true&background=0d1117&stroke=7DF9FF&ring=FF4FD8&fire=FF4FD8&currStreakLabel=7DF9FF" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=CesuCashew&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
 </div>
 
 <div align="center">
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CesuCashew&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7DF9FF&line=FF4FD8&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CesuCashew&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -188,7 +188,7 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=CesuCashew&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CesuCashew&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -199,23 +199,23 @@ I'm a developer passionate about creating **AI-powered applications** and **auto
 <div align="center">
 
 <!-- Profile Details Card -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CesuCashew&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CesuCashew&theme=tokyonight" alt="Profile Details"/>
 
 <table>
 <tr>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CesuCashew&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CesuCashew&theme=tokyonight" alt="Repos per Language"/>
 </td>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CesuCashew&theme=tokyonight" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CesuCashew&theme=tokyonight" alt="Most Commit Language"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CesuCashew&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CesuCashew&theme=tokyonight" alt="Stats"/>
 </td>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CesuCashew&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CesuCashew&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
 </td>
 </tr>
 </table>
@@ -285,9 +285,9 @@ current_projects = {
   
   ### 🌟 Show some ❤️ by starring some repositories!
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DF9FF,100:FF4FD8&height=120&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%"/>
   
-  ![Visitor Count](https://profile-counter.glitch.me/CesuCashew/count.svg)
+  ![](https://komarev.com/ghpvc/?username=CesuCashew&color=blueviolet&style=flat-square&label=Profile+Views)
   
   **Last Updated:** January 2026
   
