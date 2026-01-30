@@ -14,8 +14,7 @@
 
 <div align="center">
   
-  <!-- Name Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,5,6&height=150&section=header&text=CesuCashew&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+
   
 </div>
 
@@ -32,7 +31,7 @@ const developer = {
     ],
     currentFocus: "Building intelligent systems that think and act autonomously",
     philosophy: "I like building systems that think.",
-    location: "Prague, CZ 🇨🇿"
+    location: "Cheb, CZ 🇨🇿"
 };
 ```
 
